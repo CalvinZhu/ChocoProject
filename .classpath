@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/12162_000/Desktop/实验室工作/choco-2.1.5/choco-solver-2.1.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/12162_000/Desktop/实验室工作/choco-2.1.5/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/12162_000/Desktop/实验室工作/choco-2.1.5/choco-solver-2.1.5-with-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/12162_000/Desktop/实验室工作/choco-2.1.5/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/12162_000/Desktop/实验室工作/choco-2.1.5/choco-solver-cpviz-2.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/12162_000/Desktop/实验室工作/choco-2.1.5/samples-2.1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
